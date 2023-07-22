@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+This a Spotify Clone. It basically runs a playlist on the local server. Mainly worked on Frontend.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
